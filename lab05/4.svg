@@ -1,0 +1,28 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+
+<ellipse fill="none" stroke="black" stroke-width="1" cx="148" cy="512" rx="128" ry="900"/>
+<ellipse fill="none" stroke="black" stroke-width="1" cx="364" cy="512" rx="128" ry="900"/>
+<ellipse fill="white" cx="256" cy="512" rx="128" ry="473"/>
+<circle fill="none" stroke="black" stroke-width="1" cx="220" cy="180.446" r="33"/>
+<circle fill="none" stroke="black" stroke-width="1" cx="286" cy="180.446" r="33"/>
+<circle fill="white" cx="210" cy="156" r="33"/>
+<circle fill="white" cx="286" cy="146" r="43"/>
+<circle fill="none" stroke="black" stroke-width="1" cx="256" cy="80.446" r="22"/>
+<path d="M256 128 L80 256" stroke="black"/>
+<path d="M256 128 L432 256" stroke="black"/>
+<path d="M80 256 V512" stroke="black"/>
+<path d="M432 256 V512" stroke="black"/>
+<rect id="B" x="199" y="424" fill="none" stroke="black" stroke-width="1" width="117" height="88"/>
+<circle fill="none" stroke="black" stroke-width="1" cx="300" cy="460.446" r="5"/>
+<rect id="A" x="120" y="300" fill="none" stroke="black" stroke-width="1" width="75" height="75"/>
+<rect id="A" x="310" y="300" fill="none" stroke="black" stroke-width="1" width="75" height="75"/>
+<path d="M155 300 V375" stroke="black"/>
+<path d="M345 300 V375" stroke="black"/>
+<path d="M120 338 H195" stroke="black"/>
+<path d="M310 338 H385" stroke="black"/>
+
+</svg>
