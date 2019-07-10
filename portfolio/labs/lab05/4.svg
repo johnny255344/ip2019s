@@ -17,6 +17,12 @@
 <path d="M80 256 V512" stroke="black"/>
 <path d="M432 256 V512" stroke="black"/>
 <rect id="B" x="199" y="424" fill="none" stroke="black" stroke-width="1" width="117" height="88"/>
-
+<circle fill="none" stroke="black" stroke-width="1" cx="300" cy="460.446" r="5"/>
+<rect id="A" x="120" y="300" fill="none" stroke="black" stroke-width="1" width="75" height="75"/>
+<rect id="A" x="310" y="300" fill="none" stroke="black" stroke-width="1" width="75" height="75"/>
+<path d="M155 300 V375" stroke="black"/>
+<path d="M345 300 V375" stroke="black"/>
+<path d="M120 338 H195" stroke="black"/>
+<path d="M310 338 H385" stroke="black"/>
 
 </svg>
